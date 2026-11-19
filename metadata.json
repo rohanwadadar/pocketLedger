@@ -1,0 +1,6 @@
+{
+  "name": "PocketLedger",
+  "description": "Fast daily expense tracker for Windows, Android, and iOS that stores all data privately in your device's local cache.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
